@@ -1,11 +1,11 @@
-package com.vengal.insta_dummy;
-
-import java.lang.ref.WeakReference;
-import java.util.HashMap;
+package com.vengal.Selfie_display;
 
 import android.graphics.Bitmap;
 import android.os.AsyncTask;
 import android.widget.ImageView;
+
+import java.lang.ref.WeakReference;
+import java.util.HashMap;
 
 public class BitmapDownloaderTask extends AsyncTask<String, Void, Bitmap> {	
 	private static HashMap<String, Bitmap> cache;

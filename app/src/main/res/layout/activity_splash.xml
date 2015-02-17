@@ -13,8 +13,8 @@
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
         android:contentDescription="@string/app_name"
-        android:src="@drawable/selfie"
-        android:layout_weight="5"/>
+        android:src="@drawable/splash_selfie"
+        android:layout_weight="3"/>
 
     <LinearLayout
         android:id="@+id/linearLayout1"

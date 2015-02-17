@@ -1,4 +1,4 @@
-package com.vengal.insta_dummy;
+package com.vengal.Selfie_display;
 import android.content.Context;
 import android.util.Log;
 import android.view.View;
